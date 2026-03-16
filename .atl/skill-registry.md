@@ -21,7 +21,28 @@
 
 ## Project Skills
 
-_No project-level skills yet._
+| Skill | Trigger | Location | Status |
+|-------|---------|----------|--------|
+| `bpae-context` | Always load when working on project_next | `.agent/skills/bpae-context/SKILL.md` | ✅ Active |
+
+### Planned Skills
+
+| Skill | Sprint | Purpose |
+|-------|--------|---------|
+| `bpae-fastapi` | Sprint 1 | FastAPI conventions for BPAE |
+| `bpae-supabase` | Sprint 1 | Supabase patterns and queries |
+| `bpae-prompts` | Sprint 2 | MiniMax prompt engineering |
+| `bpae-generation` | Sprint 2 | Text generation service patterns |
+| `bpae-investigador` | Sprint 3 | Research agent workflow |
+| `bpae-pestel` | Sprint 3 | PESTEL analysis generation |
+| `bpae-encuesta` | Sprint 4 | Survey design methodology |
+| `bpae-mercado` | Sprint 4 | Market analysis patterns |
+| `bpae-excel-maestro` | Sprint 5 | Excel master template handling |
+| `bpae-coherence` | Sprint 5 | Financial validation rules |
+| `bpae-compiler` | Sprint 6 | Document compilation |
+| `bpae-word-plantilla` | Sprint 6 | Word template styling |
+| `bpae-deployment` | Sprint 7 | Oracle Cloud deployment |
+| `bpae-troubleshooting` | Sprint 7 | Common errors and solutions |
 
 ## Project Conventions
 
