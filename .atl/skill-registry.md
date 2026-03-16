@@ -54,6 +54,9 @@
 | `docs/indice-completo.md` | Índice completo de plan de negocio (referencia teórica) |
 | `docs/indice-mvp.md` | Índice MVP priorizado para desarrollo en 23 días |
 | `docs/README.md` | Guía rápida de uso de los índices |
+| `docs/indice-detallado/indice-mvp-detallado.md` | Guía experta detallada por sección (MVP) |
+| `docs/indice-detallado/indice-completo-detallado.md` | Guía experta completa (referencia) |
+| `docs/indice-esquema/esquema-base-datos.md` | Esquema de datos por sección del plan |
 
 ## Commands (OpenCode)
 
