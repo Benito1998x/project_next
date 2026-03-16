@@ -28,6 +28,9 @@ _No project-level skills yet._
 | File | Purpose |
 |------|---------|
 | `project/plan_implementacion_v2.md` | Plan de implementación completo del proyecto BPAE |
+| `docs/indice-completo.md` | Índice completo de plan de negocio (referencia teórica) |
+| `docs/indice-mvp.md` | Índice MVP priorizado para desarrollo en 23 días |
+| `docs/README.md` | Guía rápida de uso de los índices |
 
 ## Commands (OpenCode)
 
