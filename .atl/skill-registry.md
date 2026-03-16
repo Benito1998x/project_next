@@ -56,7 +56,8 @@
 | `docs/README.md` | Guía rápida de uso de los índices |
 | `docs/indice-detallado/indice-mvp-detallado.md` | Guía experta detallada por sección (MVP) |
 | `docs/indice-detallado/indice-completo-detallado.md` | Guía experta completa (referencia) |
-| `docs/indice-esquema/esquema-base-datos.md` | Esquema de datos por sección del plan |
+| `docs/indice-esquema/esquema-mvp.md` | Esquema de datos MVP (solo esencial) |
+| `docs/indice-esquema/esquema-completo.md` | Esquema de datos completo (todas las tablas) |
 
 ## Commands (OpenCode)
 
