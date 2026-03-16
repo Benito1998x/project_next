@@ -24,8 +24,11 @@ class Settings(BaseSettings):
     debug: bool = Field(default=True, description="Modo debug")
 
     # APIs Externas
-    minimax_api_key: str = Field(..., description="MiniMax API Key (requerido)")
+    minimax_api_key: str = Field(default="", description="MiniMax API Key (producción)")
     tavily_api_key: str = Field(..., description="Tavily API Key (requerido)")
+    opencode_api_key: str = Field(
+        default="", description="OpenCode Go API Key (desarrollo, opcional)"
+    )
 
     # Database
     supabase_url: str = Field(..., description="Supabase Project URL (requerido)")

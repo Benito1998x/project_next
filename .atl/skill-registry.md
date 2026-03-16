@@ -24,13 +24,15 @@
 | Skill | Trigger | Location | Status |
 |-------|---------|----------|--------|
 | `bpae-context` | Always load when working on project_next | `.agent/skills/bpae-context/SKILL.md` | ✅ Active |
+| `bpae-fastapi` | When writing FastAPI endpoints in project_next | `.agent/skills/bpae-fastapi/SKILL.md` | ✅ Active |
+| `bpae-supabase` | When working with Supabase in project_next | `.agent/skills/bpae-supabase/SKILL.md` | ✅ Active |
 
 ### Planned Skills
 
 | Skill | Sprint | Purpose |
 |-------|--------|---------|
-| `bpae-fastapi` | Sprint 1 | FastAPI conventions for BPAE |
-| `bpae-supabase` | Sprint 1 | Supabase patterns and queries |
+| `bpae-prompts` | Sprint 2 | MiniMax prompt engineering |
+| `bpae-generation` | Sprint 2 | Text generation service patterns |
 | `bpae-prompts` | Sprint 2 | MiniMax prompt engineering |
 | `bpae-generation` | Sprint 2 | Text generation service patterns |
 | `bpae-investigador` | Sprint 3 | Research agent workflow |
